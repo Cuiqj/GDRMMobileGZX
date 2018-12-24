@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InquireTable>
+    <Paper size = "A4" width = "595" height = "842">
+        <Margin top= "0" left = "0" right = "65" bottom = "65" />
+        <orientation isPortrait="YES" />
+    </Paper>
+    <StaticTable>
+        <Lines>
+            <defaultLineWidth>0.2</defaultLineWidth>
+            <!--上线-->
+            <line x1="25" y1="42" x2="185" y2="42" />
+            <!--底线-->
+            <line x1="25" y1="263" x2="185" y2="263" />
+            <line x1="25" y1="263" x2="185" y2="263" />
+            <!--左边框-->
+            <line x1="25" y1="42" x2="25" y2="263" />
+            <!--右边框-->
+            <line x1="185" y1="42" x2="185" y2="263" />
+            <!--询问人-上线-->
+            <line x1="25" y1="53" x2="185" y2="53" />
+            <!--被询问人-上线-->
+            <line x1="25" y1="63" x2="185" y2="63" />
+            
+            <!--工作单位和职务-上线-->
+            <line x1="25" y1="73" x2="185" y2="73" />
+            <!--地址-上线-->
+            <line x1="25" y1="83" x2="185" y2="83" />
+            <!--线条1-->
+            <line x1="25" y1="93" x2="185" y2="93" />
+            <!--线条2-->
+            <line x1="25" y1="103" x2="185" y2="103" />
+            <!--线条3-->
+            <line x1="25" y1="113" x2="185" y2="113" />
+            <!--线条4-->
+            <line x1="25" y1="123" x2="185" y2="123" />
+            <!--线条5-->
+            <line x1="25" y1="133" x2="185" y2="133" />
+            <!--线条6-->
+            <line x1="25" y1="143" x2="185" y2="143" />
+            <!--线条7-->
+            <line x1="25" y1="153" x2="185" y2="153" />
+            <!--线条8-->
+            <line x1="25" y1="163" x2="185" y2="163" />
+            <!--线条9-->
+            <line x1="25" y1="173" x2="185" y2="173" />
+            <!--线条10-->
+            <line x1="25" y1="183" x2="185" y2="183" />
+            <!--线条11-->
+            <line x1="25" y1="193" x2="185" y2="193" />
+            <!--线条12-->
+            <line x1="25" y1="203" x2="185" y2="203" />
+            <!--线条13-->
+            <line x1="25" y1="213" x2="185" y2="213" />
+            <!--被询问人-上线-->
+            <line x1="25" y1="223" x2="185" y2="223" />
+            <!--询问人-上线-->
+            <line x1="25" y1="233" x2="185" y2="233" />
+            <!--记录人-上线-->
+            <line x1="25" y1="243" x2="185" y2="243" />
+            <!--页码-上线-->
+            <line x1="25" y1="253" x2="185" y2="253" />
+            <line x1="25" y1="263" x2="185" y2="263" />
+            <line x1="89" y1="20" x2="97" y2="20" />
+        </Lines>
+        <Texts>
+            <defaultFontSize>19</defaultFontSize>
+            <!--标题-->
+            <Text>
+                <text>公路赔（补）偿案件询问笔录</text>
+                <fontSize>15</fontSize>
+                <origin x="70" y="19" />
+                <size width="200" height="6" />
+            </Text>
+            <!--案号-->
+            <Text>
+                <text>案号（</text>
+                <origin x="126" y="37.5" />
+                <size width="100" height="6" />
+            </Text>
+            <!--）年-->
+            <Text>
+                <text>）年（</text>
+                <origin x="150" y="37.5" />
+                <size width="100" height="6" />
+            </Text>
+            <!--）号-->
+            <Text>
+                <text>）号</text>
+                <origin x="173" y="37.5" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>时间：</text>
+                <origin x="27" y="47" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>地点：</text>
+                <origin x="97" y="47" />
+                <size width="100" height="6" />
+            </Text>
+            
+            <Text>
+                <text>询问人：</text>
+                <origin x="27" y="58" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>记录人：</text>
+                <origin x="97" y="58" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>被询问人：</text>
+                <origin x="27" y="68" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>性别：</text>
+                <origin x="68" y="68" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>年龄：</text>
+                <origin x="85" y="68" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>与案件关系：</text>
+                <origin x="107" y="68" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>工作单位及职务：</text>
+                <origin x="27" y="78" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>电话：</text>
+                <origin x="117" y="78" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>地址：</text>
+                <origin x="27" y="89" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>邮编：</text>
+                <origin x="117" y="89" />
+                <size width="100" height="6" />
+            </Text>
+            
+            <!--被询问人签名并按印-->
+            <Text>
+                <text>被询问人（签名并按印）：</text>
+                <origin x="27" y="228" />
+                <size width="200" height="6" />
+            </Text>
+            <!--询问人签字-->
+            <Text>
+                <text>询问人（签字）：</text>
+                <origin x="27" y="238" />
+                <size width="100" height="6" />
+            </Text>
+            <!--询问人-证件号码-->
+            <Text>
+                <text>证件号码：</text>
+                <origin x="100" y="238" />
+                <size width="100" height="6" />
+            </Text>
+            <!--记录人签字-->
+            <Text>
+                <text>记录人（签字）：</text>
+                <origin x="27" y="248" />
+                <size width="100" height="6" />
+            </Text>
+            <!---记录人-证件号码-->
+            <Text>
+                <text>证件号码：</text>
+                <origin x="100" y="248" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>共    页</text>
+                <origin x="145" y="258" />
+                <size width="100" height="6" />
+            </Text>
+            <Text>
+                <text>第    页</text>
+                <origin x="165" y="258" />
+                <size width="100" height="6" />
+            </Text>
+            <!--备注说明-->
+            <Text>
+                <text>（本页写不下的内容，或需绘制勘验与贴照片的，可另附纸）</text>
+                <origin x="32" y="268" />
+                <size width="400" height="6" />
+            </Text>
+        </Texts>
+    </StaticTable>
+    <DataTable>
+        <!--设置默认字体-->
+        <DefaultFontSize>19</DefaultFontSize>
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="140" y="36" />
+            <size width="28" height="6" />
+            <content>
+                <!--案号-->
+                <data>
+                    <attributeName>case_mark2</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        <!--号-->
+        <!--<UITextField>
+         <fontSize>12</fontSize>
+         <origin x="142" y="36" />
+         <size width="30" height="6" />
+         <alignment>Right</alignment>
+         <content>
+         
+         <data>
+         <attributeName>full_case_mark3</attributeName>
+         <entityName>CaseInfo</entityName>
+         </data>
+         </content>
+         </UITextField>-->
+        <!--询问时间-->
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="39" y="45" />
+            <size width="50" height="6" />
+            <fontSize>12</fontSize>
+            <content>
+                <data>
+                    <attributeName>date_inquired</attributeName>
+                    <mode>yyyy年MM月dd日HH时mm分</mode>
+                </data>
+            </content>
+        </UITextField>
+        <!--询问地点-->
+        <UITextField>
+            <origin x="107.4" y="45" />
+            <size width = "70" height = "6" />
+            <fontSize>12</fontSize>
+            <content>
+                <data>
+                    <attributeName>locality</attributeName>
+                </data>
+            </content>
+        </UITextField>
+        <!--询问人-->
+        <UITextField>
+            <origin x="43" y="56" />
+            <size width = "56" height = "6" />
+            <fontSize>12</fontSize>
+            <content>
+                <data>
+                    <attributeName>inquirer_name</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        <!--记录人-->
+        <UITextField>
+            <origin x="113" y="56" />
+            <fontSize>12</fontSize>
+            <size width="66" height = "6" />
+            <content>
+                <data>
+                    <attributeName>recorder_name</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        <!--被询问人-->
+        <UITextField>
+            <origin x="47" y="66" />
+            <size width = "30" height = "6" />
+            <fontSize>12</fontSize>
+            <content>
+                <data>
+                    <attributeName>answerer_name</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        <!--性别-->
+        <UITextField>
+            <origin x="79" y="66" />
+            <size width = "8" height = "6" />
+            <fontSize>12</fontSize>
+            <content>
+                <data>
+                    <attributeName>sex</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        <!--年龄-->
+        <UITextField>
+            <origin x="97" y="66" />
+            <size width = "15" height = "6" />
+            <fontSize>12</fontSize>
+            <content>
+                <data>
+                    <attributeName>age</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        <!--与案件关系-->
+        <UITextField>
+            <origin x="131" y="66" />
+            <size width = "32" height = "6" />
+            <fontSize>12</fontSize>
+            <content>
+                <data>
+                    <attributeName>relation</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        <!--工作单位及职务-->
+        <UITextField>
+            <origin x="60" y="76" />
+            <size width = "44" height = "6" />
+            <fontSize>12</fontSize>
+            <content>
+                <data>
+                    <attributeName>company_duty</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        <!--电话-->
+        <UITextField>
+            <origin x="128" y="76" />
+            <size width = "60" height = "6" />
+            <fontSize>12</fontSize>
+            <content>
+                <data>
+                    <attributeName>phone</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        <!--地址-->
+        <UITextField>
+            <origin x="39" y="86" />
+            <size width = "70" height = "8" />
+            <fontSize>12</fontSize>
+            <content>
+                <data>
+                    <attributeName>address</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        <!--邮编-->
+        <UITextField>
+            <origin x="128" y="86" />
+            <size width = "60" height = "6" />
+            <fontSize>12</fontSize>
+            <content>
+                <data>
+                    <attributeName>postalcode</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <!--询问内容-->
+        <UITextView>
+            <origin x="33" y="96" />
+            <size width="146" height="139" />
+            <fontSize>12</fontSize>
+            <lineHeight>28</lineHeight>
+            <content>
+                <data>
+                    <attributeName>inquiry_note</attributeName>
+                    
+                </data>
+            </content>
+        </UITextView>
+        
+        <!--页码-->
+        <UITextField>
+            <origin x="146" y="256" />
+            <size width="15" height="6" />
+            <fontSize>12</fontSize>
+            <alignment>center</alignment>
+            <content>
+                <data>
+                    <attributeName>pageCount</attributeName>
+                    <entityName>PageNumberInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        <UITextField>
+            <origin x="166" y="256" />
+            <size width="11" height="6" />
+            <fontSize>12</fontSize>
+            <alignment>center</alignment>
+            <content>
+                <data>
+                    <attributeName>pageNumber</attributeName>
+                    <entityName>PageNumberInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+    </DataTable>
+</InquireTable>

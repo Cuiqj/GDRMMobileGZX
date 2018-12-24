@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ZhengGaiTongZhiShu>
+    <Paper size = "A4" width = "595" height = "842">
+        <Margin top= "0" left = "0" right = "65" bottom = "65" />
+        <orientation isPortrait="YES" />
+    </Paper>
+    <StaticTable>
+        <Lines>
+            <defaultLineWidth>0.2</defaultLineWidth>
+<!--            施工单位-->
+            <line x1="34" y1="77" x2="121" y2="77" />
+<!--            施工位置-->
+            <line x1="127" y1="88" x2="182" y2="88" />
+<!--            违反条-->
+            <line x1="107" y1="132" x2="126" y2="132" />
+<!--            整改项目第一行-->
+            <line x1="81" y1="143" x2="181" y2="143" />
+<!--            整改项目第二行-->
+            <line x1="34" y1="154" x2="181" y2="154" />
+<!--            整改项目第三行-->
+            <line x1="34" y1="165" x2="181" y2="165" />
+<!--            依据条-->
+            <line x1="136" y1="176" x2="156" y2="176" />
+<!--            依据款-->
+            <line x1="165" y1="176" x2="181" y2="176" />
+<!--            大写罚金-->
+            <line x1="34" y1="198" x2="50" y2="198" />
+<!--            小写罚金-->
+            <line x1="68" y1="198" x2="88" y2="198" />
+        </Lines>
+        <Texts>
+            <defaultFontSize>19</defaultFontSize>
+            <!--标题-->
+            <Text>
+                <text>广珠西线高速公路施工安全管理</text>
+                <!--字体大小，可选配置，在UILayouts内同-->
+                <fontSize>16</fontSize>
+                <!--字体是否粗体，可选配置，在UILayouts内同-->
+                <isBold>YES</isBold>
+                <!--origin为左上点计算边距后的相对位置，UILayouts里意义同-->
+                <origin x="49" y="35" />
+                <size width="400" height="6" />
+            </Text>
+            <!--整改通知书-->
+            <Text>
+                <text>整改通知书</text>
+                <fontSize>13</fontSize>
+                <origin x="95" y="47" />
+                <size width="236" height="6" />
+            </Text>
+            <!--广珠西路管（施）字-->
+            <Text>
+                <text>广珠西路管（施）字</text>
+                <fontSize>13</fontSize>
+                <origin x="110" y="58" />
+                <size width="246" height="6" />
+            </Text>
+            <!--号-->
+            <Text>
+                <text>号</text>
+                <fontSize>13</fontSize>
+                <origin x="178" y="58" />
+                <size width="246" height="6" />
+            </Text>
+
+            <!--经检查，你单位在广珠西线高速公路-->
+            <Text>
+                <text>经检查，你单位在广珠西线高速公路</text>
+                <fontSize>13</fontSize>
+                <origin x="45" y="83" />
+                <size width="280" height="6" />
+            </Text>
+            <!--处进行施工作业时，未严格按《中华人民共和国道路标志标线》-->
+            <Text>
+                <text>处进行施工作业时，未严格按《中华人民共和国道路标志标线》</text>
+                <fontSize>13</fontSize>
+                <origin x="34" y="94" />
+                <size width="447" height="6" />
+            </Text>
+            <!--（GB5768-1999）和《公路养护安全作业规程》（JTGH30-2004）的-->
+            <Text>
+                <text>（GB5768-1999）和《公路养护安全作业规程》（JTGH30-2004）的</text>
+                <fontSize>13</fontSize>
+                <origin x="34" y="105" />
+                <size width="547" height="6" />
+            </Text>
+            <!--要求设置交通安全设施及组织交通，违反《广东广珠西线高速公路道-->
+            <Text>
+                <text>要求设置交通安全设施及组织交通，违反《广东广珠西线高速公路道</text>
+                <fontSize>13</fontSize>
+                <origin x="34" y="116" />
+                <size width="547" height="6" />
+            </Text>
+            <!--路养护维修施工安全管理规程》第-->
+            <Text>
+                <text>路养护维修施工安全管理规程》第</text>
+                <origin x="34" y="127" />
+                <size width="275" height="6" />
+            </Text>
+            <!--条规定，请在接到此通知后规范一下项目-->
+            <Text>
+                <text>条规定，请在接到此</text>
+                <origin x="127" y="127" />
+                <size width="224" height="6" />
+            </Text>
+            <!--通知后规范一下项目-->
+            <Text>
+                <text>通知后规范一下项目：</text>
+                <origin x="34" y="138" />
+                <size width="245" height="6" />
+            </Text>
+            <!--根据你我双方签订《施工安全协议书》第-->
+            <Text>
+                <text>根据你我双方签订《施工安全协议书》第</text>
+                <origin x="45" y="171" />
+                <size width="290" height="6" />
+            </Text>
+            <!--条第-->
+            <Text>
+                <text>条第</text>
+                <origin x="156" y="171" />
+                <size width="224" height="6" />
+            </Text>
+            <!--款的约定，我方将在你单位交纳的施工安全保证金中扣除人民币-->
+            <Text>
+                <text>款的约定，我方将在你单位交纳的施工安全保证金中扣除人民币</text>
+                <origin x="34" y="182" />
+                <size width="381" height="6" />
+                
+            </Text>
+            <!--元整（￥-->
+            <Text>
+                <text>元整（￥</text>
+                <origin x="51" y="193" />
+                <size width="224" height="6" />
+                
+            </Text>
+            <!--元）。-->
+            <Text>
+                <text>元）。</text>
+                <origin x="88" y="193" />
+                <size width="230" height="6"/>
+                
+            </Text>
+            <!--经办人：-->
+            <Text>
+                <text>经办人：</text>
+                <origin x="45" y="225" />
+                <size width="324" height="6" />
+                
+            </Text>
+            <!--当事人：-->
+            <Text>
+                <text>当事人：</text>
+                <origin x="118" y="225" />
+                <size width="424" height="6" />
+                
+            </Text>
+            <!--广东广珠西线高速公路有限公司路产管理部-->
+            <Text>
+                <text>广东广珠西线高速公路有限公司路产管理部</text>
+                <origin x="84" y="247" />
+                <size width="324" height="6" />
+                
+            </Text>
+            <!--年-->
+            <Text>
+                <text>年</text>
+                <origin x="116" y="258" />
+                <size width="210" height="6" />
+                
+            </Text>
+            <!--月-->
+            <Text>
+                <text>月</text>
+                <origin x="131" y="258" />
+                <size width="210" height="6" />
+                
+            </Text>
+            <!--日-->
+            <Text>
+                <text>日</text>
+                <origin x="146" y="258" />
+                <size width="210" height="6" />
+                
+            </Text>
+            <!--注：1、本通知一式三份，一份交被通知方（红），一份交财务（黄），一份存档（白）。-->
+            <Text>
+                <text>注：1、本通知一式三份，一份交被通知方（红），一份交财务（黄），一份存档（白）。</text>
+                <fontSize>8</fontSize>
+                <origin x="32" y="273" />
+                <size width="483" height="6" />
+                
+            </Text>
+            <!--2、当事人拒绝签名的，由监管人员现场拍照取证，附于本通知执行。-->
+            <Text>
+                <text>2、当事人拒绝签名的，由监管人员现场拍照取证，附于本通知执行。</text>
+                <fontSize>8</fontSize>
+                <origin x="38" y="280" />
+                <size width="283" height="6" />
+                
+            </Text>
+        </Texts>
+    </StaticTable>
+    <DataTable>
+        
+        <!--年-->
+        <UITextField>
+            <origin x="79" y="54" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>send_date</attributeName>
+                    <mode>yyyy</mode>
+                </data>
+            </content>
+        </UITextField>
+        <!--通知书号-->
+        <UITextField>
+            <origin x="155" y="54" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>number</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        <!--施工单位-->
+        <UITextField>
+            <origin x="34" y="65" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>construct_org</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+<!--        施工位置-->
+        <UITextField>
+            <origin x="127" y="75" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>project_address</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        <!--违法条-->
+        <UITextField>
+            <origin x="112" y="120" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>disobey_item</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <!--整改项目-->
+        <UITextView>
+            <fontSize>12</fontSize>
+            <origin x="30" y="135" />
+            <size width="147" height="40" />
+            <leftOffSet>48</leftOffSet>
+            <lineHeight>24</lineHeight>
+            <content>
+                <data>
+                    <attributeName>alter_item</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextView>
+        
+        <!--依据条-->
+        <UITextField>
+            <origin x="136" y="164" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>obey_tiao</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        <!--依据款-->
+        <UITextField>
+            <origin x="165" y="164" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>obey_kuan</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        <!--大写罚金-->
+        <UITextField>
+            <origin x="34" y="185" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>chinese_money</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        <!--小写罚金-->
+        <UITextField>
+            <origin x="73" y="185" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>money</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        <!--经办人-->
+        <UITextField>
+            <origin x="60" y="207" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>recorder</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        <!--当事人-->
+        <UITextField>
+            <origin x="130" y="207" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>citizen</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        <!--年-->
+        <UITextField>
+            <origin x="104" y="235" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>send_date</attributeName>
+                    <mode>yyyy</mode>
+                </data>
+            </content>
+        </UITextField>
+        <!--月-->
+        <UITextField>
+            <origin x="120" y="235" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>send_date</attributeName>
+                    <mode>MM</mode>
+                </data>
+            </content>
+        </UITextField>
+        <!--日-->
+        <UITextField>
+            <origin x="135" y="235" />
+            <size width="220" height = "6"/>
+            <content>
+                <data>
+                    <attributeName>send_date</attributeName>
+                    <mode>dd</mode>
+                </data>
+            </content>
+        </UITextField>
+        
+        
+    </DataTable>
+</ZhengGaiTongZhiShu>

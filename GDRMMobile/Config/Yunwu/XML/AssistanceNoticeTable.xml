@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AtonementNoticeTable>
+    <Paper size = "A4" width = "595" height = "842">
+        <Margin top= "0" left = "0" right = "65" bottom = "65" />
+        <orientation isPortrait="YES" />
+	</Paper>
+	<StaticTable>
+        <Lines>
+            <defaultLineWidth>0.2</defaultLineWidth>
+            <line x1="31" y1="38" x2="66" y2="38" />
+            <line x1="45" y1="45" x2="61" y2="45" />
+            <line x1="70" y1="45" x2="80" y2="45" />
+            <line x1="86" y1="45" x2="94" y2="45" />
+            <line x1="102" y1="45" x2="145" y2="45" />
+            <line x1="153" y1="45" x2="193" y2="45" />
+            
+            <line x1="21" y1="53" x2="85" y2="53" />
+            
+            <line x1="28" y1="61.5" x2="33" y2="61.5" />
+            <line x1="28" y1="66.5" x2="33" y2="66.5" />
+            <line x1="28" y1="61.5" x2="28" y2="66.5" />
+            <line x1="33" y1="61.5" x2="33" y2="66.5" />
+            
+            
+            <line x1="70" y1="61.5" x2="75" y2="61.5" />
+            <line x1="70" y1="66.5" x2="75" y2="66.5" />
+            <line x1="70" y1="61.5" x2="70" y2="66.5" />
+            <line x1="75" y1="61.5" x2="75" y2="66.5" />
+            
+            <line x1="58.5" y1="75" x2="71" y2="75" />
+            <line x1="84" y1="75" x2="172" y2="75" />
+            
+            <line x1="43" y1="96" x2="80" y2="96" />
+            <line x1="102" y1="96" x2="142" y2="96" />
+            <line x1="43" y1="105" x2="125" y2="105" />
+             
+             
+            <line x1="35" y1="121" x2="128" y2="121" />
+            <line x1="69" y1="128.5" x2="100" y2="128.5" />
+            <line x1="102" y1="128.5" x2="151" y2="128.5" />
+            <line x1="35" y1="136.5" x2="131" y2="136.5" />
+            
+            
+        </Lines>
+		<Texts>
+            <defaultFontSize>19</defaultFontSize>
+			<!--标题-->
+			<Text>
+				<text>路政扣留车辆工具凭证</text>
+                <!--字体大小，可选配置，在UILayouts内同-->
+                <fontSize>22</fontSize>
+                <!--字体是否粗体，可选配置，在UILayouts内同-->
+                <isBold>YES</isBold>
+                <!--origin为左上点计算边距后的相对位置，UILayouts里意义同-->
+                <origin x="68" y="12" />
+                <size width="80" height="6" />
+			</Text>
+            <!--当事人-->
+            <Text>
+                <text>当事人：</text>
+                <origin x="16" y="33" />
+                <size width="24" height="6" />
+            </Text>            
+            <!--当事人于-->
+            <Text>
+                <text>当事人于：</text>
+                <origin x="25" y="40" />
+                <size width="30" height="6" />
+            </Text>
+             <!--年-->
+             <Text>
+                 <text>年</text>
+                 <origin x="65" y="40" />
+                 <size width="30" height="6" />
+             </Text>
+             <!--月-->
+             <Text>
+                 <text>月</text>
+                 <origin x="80" y="40" />
+                 <size width="30" height="6" />
+             </Text>
+             <!--日-->
+             <Text>
+                 <text>日在</text>
+                 <origin x="94" y="40" />
+                 <size width="30" height="6" />
+             </Text>
+             <!--线K-->
+             <Text>
+                 <text>线K      +</text>
+                 <origin x="146" y="40" />
+                 <size width="30" height="6" />
+             </Text>
+             <!--路段，-->
+             <Text>
+                 <text>路段，</text>
+                 <origin x="194" y="40" />
+                 <size width="30" height="6" />
+             </Text>
+             <!--因-->
+             <Text>
+                 <text>因</text>
+                 <origin x="16" y="48" />
+                 <size width="30" height="6" />
+             </Text>
+             <!---->
+             <Text>
+                 <text>,造成公路、公路附属设施损坏。</text>
+                 <origin x="86" y="48" />
+                 <size width="100" height="6" />
+             </Text>
+             <!--根据-->
+             <Text>
+                 <text>根据《公路安全保护条例》第七十二条的规定，本机关决定：</text>
+                 <origin x="15" y="55" />
+                 <size width="150" height="6" />
+             </Text>
+             <!--扣留车辆-->
+             <Text>
+                 <text>扣留车辆</text>
+                 <origin x="35" y="61.5" />
+                 <size width="20" height="6" />
+             </Text>
+             <!--扣留工具-->
+             <Text>
+                 <text>扣留工具</text>
+                 <origin x="76" y="61.5" />
+                 <size width="20" height="6" />
+             </Text>
+             <!--请当事人-->
+             <Text>
+                 <text>请当事人持本凭证在</text>
+                 <origin x="20" y="70" />
+                 <size width="40" height="6" />
+             </Text>
+             <!--日内-->
+             <Text>
+                 <text>日内到</text>
+                 <origin x="72" y="70" />
+                 <size width="40" height="6" />
+             </Text>
+             <!--接受处理-->
+             <Text>
+                 <text>接受处理，逾期</text>
+                 <origin x="173" y="70" />
+                 <size width="40" height="6" />
+                  </Text>
+            <!--不接受处理-->
+                 <Text>
+                     <text>不接受处理的，对扣留的车辆、工具将依法予以处理。如不服本决定，可以在收到本凭证之日起60日内</text>
+                     <origin x="16" y="77" />
+                     <size width="195" height="6" />
+                      </Text>
+            <!--广东省-->
+                 <Text>
+                     <text> 向广东省交通运输厅申请行政复议，或者在3个月内向人民法院提起行政诉讼。</text>
+                     <origin x="16" y="83" />
+                     <size width="195" height="6" />
+                 </Text>
+             
+             <!--被扣车辆牌号-->
+             <Text>
+                 <text>被扣车辆牌号：</text>
+                 <origin x="15" y="91" />
+                 <size width="40" height="6" />
+             </Text>
+             <!--车辆类别-->
+             <Text>
+                 <text>车辆类别：</text>
+                 <origin x="81" y="91" />
+                 <size width="40" height="6" />
+             </Text>
+             <!--被扣工具名称-->
+             <Text>
+                 <text>被扣工具名称：</text>
+                 <origin x="15" y="99" />
+                 <size width="40" height="6" />
+             </Text>
+             <!--路政机构-->
+             <Text>
+                 <text>路政机构：</text>
+                 <origin x="16" y="116" />
+                 <size width="40" height="6" />
+             </Text>
+             <!--年 月 日-->
+             <Text>
+                 <text>年</text>
+                 <origin x="163" y="115" />
+                 <size width="40" height="6" />
+            </Text>
+             <Text>
+                 <text>月</text>
+                 <origin x="175" y="115" />
+                 <size width="40" height="6" />
+             </Text>
+             <Text>
+                 <text>日</text>
+                 <origin x="191" y="115" />
+                 <size width="40" height="6" />
+             </Text>
+             <!--路政人员签字及执法证编号-->
+             <Text>
+                 <text>路政人员签字及执法证编号：</text>
+                 <origin x="16" y="123" />
+                 <size width="80" height="6" />
+             </Text>
+             <!--联系方式-->
+             <Text>
+                 <text>联系方式：</text>
+                 <origin x="16" y="131" />
+                 <size width="80" height="6" />
+             </Text>
+             </Texts>
+            	</StaticTable>
+        <DataTable>
+            <!--协办单位：-->
+            <UITextField>
+                <origin x="15" y="23" />
+                <size width="61" height = "8"/>
+                <content>
+                    <data>
+                        <attributeName>party</attributeName>
+                        <entityName>Citizen</entityName>
+                    </data>
+                </content>
+            </UITextField>
+            <!--车号：-->
+            <UITextField>
+                <origin x="45" y="44" />
+                <size width="31" height = "8"/>
+                <content>
+                    <data>
+                        <attributeName>automobile_number</attributeName>
+                        <entityName>Citizen</entityName>
+                    </data>
+                </content>
+            </UITextField>
+            <!--时间-->
+            <!--年-->
+            <UITextField>
+                <origin x="83" y="44" />
+                <size width="15" height = "8"/>
+                <content>
+                    <data>
+                        <attributeName>happen_date</attributeName>
+                        <mode>yyyy</mode>
+                    </data>
+                </content>
+            </UITextField>
+            <!--月-->
+            <UITextField>
+                <origin x="107" y="44" />
+                <size width="15" height = "8"/>
+                <content>
+                    <data>
+                        <attributeName>happen_date</attributeName>
+                        <mode>MM</mode>
+                    </data>
+                </content>
+            </UITextField>
+            <!--日-->
+            <UITextField>
+                <origin x="132" y="44" />
+                <size width="15" height = "8"/>
+                <content>
+                    <data>
+                        <attributeName>happen_date</attributeName>
+                        <mode>dd</mode>
+                    </data>
+                </content>
+            </UITextField>
+            <!--案件地址-->
+            <UITextField>
+                <origin x="10" y="55" />
+                <size width="56" height = "8"/>
+                <content>
+                    <data>
+                        <attributeName>remark</attributeName>
+                        <entityName>CaseProveInfo</entityName>
+                    </data>
+                </content>
+            </UITextField>
+            
+        </DataTable>
+        
+
+</AtonementNoticeTable>
